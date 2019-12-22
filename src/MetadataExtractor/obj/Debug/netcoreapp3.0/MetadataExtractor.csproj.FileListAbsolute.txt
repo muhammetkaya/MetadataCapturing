@@ -1,0 +1,14 @@
+/Users/muhammet/Documents/Repositories/MetadataCapturing/src/MetadataExtractor/bin/Debug/netcoreapp3.0/MetadataExtractor
+/Users/muhammet/Documents/Repositories/MetadataCapturing/src/MetadataExtractor/bin/Debug/netcoreapp3.0/MetadataExtractor.deps.json
+/Users/muhammet/Documents/Repositories/MetadataCapturing/src/MetadataExtractor/bin/Debug/netcoreapp3.0/MetadataExtractor.runtimeconfig.json
+/Users/muhammet/Documents/Repositories/MetadataCapturing/src/MetadataExtractor/bin/Debug/netcoreapp3.0/MetadataExtractor.runtimeconfig.dev.json
+/Users/muhammet/Documents/Repositories/MetadataCapturing/src/MetadataExtractor/bin/Debug/netcoreapp3.0/MetadataExtractor.dll
+/Users/muhammet/Documents/Repositories/MetadataCapturing/src/MetadataExtractor/bin/Debug/netcoreapp3.0/MetadataExtractor.pdb
+/Users/muhammet/Documents/Repositories/MetadataCapturing/src/MetadataExtractor/bin/Debug/netcoreapp3.0/Npgsql.dll
+/Users/muhammet/Documents/Repositories/MetadataCapturing/src/MetadataExtractor/obj/Debug/netcoreapp3.0/MetadataExtractor.csprojAssemblyReference.cache
+/Users/muhammet/Documents/Repositories/MetadataCapturing/src/MetadataExtractor/obj/Debug/netcoreapp3.0/MetadataExtractor.AssemblyInfoInputs.cache
+/Users/muhammet/Documents/Repositories/MetadataCapturing/src/MetadataExtractor/obj/Debug/netcoreapp3.0/MetadataExtractor.AssemblyInfo.cs
+/Users/muhammet/Documents/Repositories/MetadataCapturing/src/MetadataExtractor/obj/Debug/netcoreapp3.0/MetadataExtractor.csproj.CopyComplete
+/Users/muhammet/Documents/Repositories/MetadataCapturing/src/MetadataExtractor/obj/Debug/netcoreapp3.0/MetadataExtractor.dll
+/Users/muhammet/Documents/Repositories/MetadataCapturing/src/MetadataExtractor/obj/Debug/netcoreapp3.0/MetadataExtractor.pdb
+/Users/muhammet/Documents/Repositories/MetadataCapturing/src/MetadataExtractor/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
